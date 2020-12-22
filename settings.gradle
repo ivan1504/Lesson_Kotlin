@@ -1,0 +1,3 @@
+include ':semafor'
+include ':lesson1'
+rootProject.name = "My Kotlin"

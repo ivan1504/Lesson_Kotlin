@@ -1,3 +1,5 @@
+include ':lesson_6'
+include ':lesson_5'
 include ':semafor'
 include ':lesson1'
 rootProject.name = "My Kotlin"
